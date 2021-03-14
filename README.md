@@ -1,28 +1,11 @@
-# Bww
+# BWW a wrapper for the [bitwarden cli tool](https://github.com/bitwarden/cli/)
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/bww`. To experiment with that code, run `bin/console` for an interactive prompt.
+The bitwarden cli is not usable in its vanilla state. it needs to be wrapped.
+this project aims to do that (eventually)
 
-TODO: Delete this and the text above, and describe your gem
+## TODO Usage
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'bww'
-```
-
-And then execute:
-
-    $ bundle install
-
-Or install it yourself as:
-
-    $ gem install bww
-
-## Usage
-
-TODO: Write usage instructions here
+I have not started to write it so give me some time
 
 ## Development
 
