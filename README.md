@@ -1,7 +1,7 @@
 # BWW a wrapper for the [bitwarden cli tool](https://github.com/bitwarden/cli/)
 
 The bitwarden cli is not usable in its vanilla state. it needs to be wrapped.
-this project aims to do that (eventually)
+this project aims to do that (eventually).
 
 ## TODO Usage
 
