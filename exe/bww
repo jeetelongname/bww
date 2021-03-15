@@ -3,8 +3,14 @@
 # frozen_string_literal: true
 
 require "thor"
-
+require_relative "../lib/bww.rb"
+# The main cli interface
+# It uses thor to define commands and sub commands
+# all commands will be included from the Bww module
 class BwwCli < thor
+  def self.exit_on_failure?
+    true
+  end
 end
 
 BwwCli.start(ARGV)
